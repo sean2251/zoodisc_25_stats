@@ -1,0 +1,321 @@
+"","game","Point","Our score at pull","Opponent's score at pull","Started on offense?","Scored?","Possessions","Passes","Turnovers","Thrower errors","Receiver errors","Defensive blocks","Opposition errors","Secondary assist","Assist","Goal"
+"1","Carleton 2025-03-02_10-00",1,0,0,1,1,1,13,0,0,0,0,0,"Caelan McSweeney","Ethan Lieman","Griffin Gee"
+"2","Carleton 2025-03-02_10-00",2,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"3","Carleton 2025-03-02_10-00",3,1,1,1,0,1,12,1,1,0,0,0,NA,NA,NA
+"4","Carleton 2025-03-02_10-00",4,1,2,1,1,1,7,0,0,0,0,0,"Roan Dunkerley","Ethan Lieman","Gavin Abrahamson"
+"5","Carleton 2025-03-02_10-00",5,2,2,0,1,2,11,1,1,0,2,0,"Artie Aucoin","Ethan Lieman","Nima Lhamo"
+"6","Carleton 2025-03-02_10-00",6,3,2,0,1,1,5,0,0,0,1,0,"Charlie Leightheiser","Mason Stone","Gavin Abrahamson"
+"7","Carleton 2025-03-02_10-00",7,4,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"8","Carleton 2025-03-02_10-00",8,4,3,1,1,1,17,0,0,0,0,0,"Caelan McSweeney","Carter Hawkins","Luca Harwood"
+"9","Carleton 2025-03-02_10-00",9,5,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"10","Carleton 2025-03-02_10-00",10,5,4,1,0,1,3,1,1,0,0,0,NA,NA,NA
+"11","Carleton 2025-03-02_10-00",11,5,5,1,1,1,3,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Gavin Abrahamson"
+"12","Carleton 2025-03-02_10-00",12,6,5,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"13","Carleton 2025-03-02_10-00",13,6,6,1,1,1,11,0,0,0,0,0,"Ethan Lieman","Carter Hawkins","Ethan Lieman"
+"14","Carleton 2025-03-02_10-00",14,7,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"15","Carleton 2025-03-02_10-00",15,7,7,1,1,1,5,0,0,0,0,0,"Gavin Abrahamson","Caelan McSweeney","Carter Hawkins"
+"16","Carleton 2025-03-02_10-00",16,8,7,0,1,1,21,0,0,0,0,1,"Artie Aucoin","Carter Hawkins","Shiff Burt"
+"17","Carleton 2025-03-02_10-00",17,9,7,0,1,1,16,0,0,0,1,0,"Tomo Liou","Artie Aucoin","Leo Narbonne"
+"18","Carleton 2025-03-02_10-00",18,10,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"19","Carleton 2025-03-02_10-00",19,10,8,1,1,1,3,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Gavin Abrahamson"
+"20","Carleton 2025-03-02_10-00",20,11,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"21","Carleton 2025-03-02_10-00",21,11,9,1,1,1,14,0,0,0,0,0,"Caelan McSweeney","Carter Hawkins","Roan Dunkerley"
+"22","Carleton 2025-03-02_10-00",22,12,9,0,1,2,19,1,1,0,2,0,"Calan Kirkpatrick","Artie Aucoin","Leo Narbonne"
+"23","Carleton 2025-03-02_10-00",23,13,9,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"24","Carleton 2025-03-02_10-00",24,13,10,1,0,1,11,1,1,0,0,0,NA,NA,NA
+"25","Carleton 2025-03-02_10-00",25,13,11,1,0,1,7,1,1,0,0,0,NA,NA,NA
+"26","Carleton 2025-03-02_10-00",26,13,12,1,1,1,19,0,0,0,0,0,"Calan Kirkpatrick","Artie Aucoin","Leo Narbonne"
+"27","Carleton 2025-03-02_10-00",27,14,12,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"28","Carleton 2025-03-02_10-00",28,14,13,1,1,1,14,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Gavin Abrahamson"
+"29","Carleton 2025-03-02_10-00",29,15,13,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"30","CUT 2025-02-02_09-50",1,0,0,1,1,1,11,0,0,0,0,0,"Griffin Gee","Carter Hawkins","Gavin Abrahamson"
+"31","CUT 2025-02-02_09-50",2,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"32","CUT 2025-02-02_09-50",3,1,1,1,1,1,5,0,0,0,0,0,"Gavin Abrahamson","Roan Dunkerley","Shiff Burt"
+"33","CUT 2025-02-02_09-50",4,2,1,0,0,1,4,1,1,0,0,1,NA,NA,NA
+"34","CUT 2025-02-02_09-50",5,2,2,1,0,2,12,2,2,0,0,1,NA,NA,NA
+"35","CUT 2025-02-02_09-50",6,2,3,1,0,1,4,1,0,1,0,0,NA,NA,NA
+"36","CUT 2025-02-02_09-50",7,2,4,1,1,1,14,0,0,0,0,0,"Ethan Lieman","Caelan McSweeney","Luca Harwood"
+"37","CUT 2025-02-02_09-50",8,3,4,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"38","CUT 2025-02-02_09-50",9,3,5,1,1,1,16,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Carter Hawkins"
+"39","CUT 2025-02-02_09-50",10,4,5,0,0,1,6,1,1,0,0,1,NA,NA,NA
+"40","CUT 2025-02-02_09-50",11,4,6,1,1,2,6,1,1,0,1,0,"Griffin Gee","Carter Hawkins","Ethan Lieman"
+"41","CUT 2025-02-02_09-50",12,5,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"42","CUT 2025-02-02_09-50",13,5,7,0,0,1,1,1,0,1,0,1,NA,NA,NA
+"43","CUT 2025-02-02_09-50",14,5,8,1,1,1,12,0,0,0,0,0,"Caelan McSweeney","Carter Hawkins","Luca Harwood"
+"44","CUT 2025-02-02_09-50",15,6,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"45","CUT 2025-02-02_09-50",16,6,9,0,1,3,18,2,2,0,1,1,"Carter Hawkins","Ethan Lieman","Shiff Burt"
+"46","CUT 2025-02-02_09-50",17,7,9,0,1,1,14,0,0,0,0,1,"Artie Aucoin","Caelan McSweeney","Sam Green"
+"47","CUT 2025-02-02_09-50",18,8,9,0,0,1,3,1,0,1,1,0,NA,NA,NA
+"48","CUT 2025-02-02_09-50",19,8,10,1,1,1,5,0,0,0,0,0,"Caelan McSweeney","Roan Dunkerley","Ethan Lieman"
+"49","CUT 2025-02-02_09-50",20,9,10,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"50","CUT 2025-02-02_09-50",21,9,11,1,1,1,6,0,0,0,0,0,"Calan Kirkpatrick","Carter Hawkins","Gavin Abrahamson"
+"51","CUT 2025-02-02_09-50",22,10,11,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"52","CUT 2025-02-02_09-50",23,10,12,1,0,1,2,1,1,0,0,0,NA,NA,NA
+"53","CUT 2025-02-02_09-50",24,10,13,1,0,0,0,0,0,0,0,0,NA,NA,NA
+"54","Florida 2025-01-31_15-20",1,0,0,1,1,2,7,1,1,0,0,1,"Gavin Abrahamson","Luca Harwood","Ethan Lieman"
+"55","Florida 2025-01-31_15-20",2,1,0,0,1,1,5,0,0,0,1,0,"Wes K-H","Charlie Leightheiser","Leo Narbonne"
+"56","Florida 2025-01-31_15-20",3,2,0,0,1,2,17,1,0,1,1,1,NA,"Artie Aucoin","Mason Stone"
+"57","Florida 2025-01-31_15-20",4,3,0,0,0,1,3,1,0,1,1,0,NA,NA,NA
+"58","Florida 2025-01-31_15-20",5,3,1,1,1,2,6,1,1,0,0,1,NA,"Caelan McSweeney","Luca Harwood"
+"59","Florida 2025-01-31_15-20",6,4,1,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"60","Florida 2025-01-31_15-20",7,4,2,1,1,1,3,0,0,0,0,0,"Luca Harwood","Mason Stone","Shiff Burt"
+"61","Florida 2025-01-31_15-20",8,5,2,0,1,1,6,0,0,0,1,0,"Calan Kirkpatrick","Taylor Hanson","Wes K-H"
+"62","Florida 2025-01-31_15-20",9,6,2,0,1,1,1,0,0,0,0,1,NA,"Artie Aucoin","Nadav Berkman"
+"63","Florida 2025-01-31_15-20",10,7,2,0,0,1,6,1,0,1,0,1,NA,NA,NA
+"64","Florida 2025-01-31_15-20",11,7,3,1,1,5,13,4,3,1,4,0,"Griffin Gee","Mason Stone","Griffin Gee"
+"65","Florida 2025-01-31_15-20",12,8,3,0,1,1,6,0,0,0,1,0,"Ian Buchanon","Artie Aucoin","Sam Green"
+"66","Florida 2025-01-31_15-20",13,9,3,0,1,1,13,0,0,0,0,1,"Toby Paperno","Ethan Lieman","Toby Paperno"
+"67","Florida 2025-01-31_15-20",14,10,3,0,1,2,16,1,0,1,0,2,"Gavin Abrahamson","Wes K-H","Sam Green"
+"68","Florida 2025-01-31_15-20",15,11,3,0,1,1,7,0,0,0,1,0,"Taylor Hanson","Charlie Leightheiser","Taylor Hanson"
+"69","Florida 2025-01-31_15-20",16,12,3,0,1,1,3,0,0,0,0,1,"Jonathan Coombs","Wes K-H","Tomo Liou"
+"70","Florida 2025-01-31_15-20",17,13,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"71","Georgia 2025-01-31_13-30",1,0,0,1,1,1,9,0,0,0,0,0,"Carter Hawkins","Luca Harwood","Ethan Lieman"
+"72","Georgia 2025-01-31_13-30",2,1,0,0,0,1,4,1,1,0,0,1,NA,NA,NA
+"73","Georgia 2025-01-31_13-30",3,1,1,1,0,1,8,1,1,0,0,0,NA,NA,NA
+"74","Georgia 2025-01-31_13-30",4,1,2,1,1,1,9,0,0,0,0,0,"Mason Stone","Artie Aucoin","Ethan Lieman"
+"75","Georgia 2025-01-31_13-30",5,2,2,0,1,1,2,0,0,0,0,1,"Artie Aucoin","Leo Narbonne","Sam Green"
+"76","Georgia 2025-01-31_13-30",6,3,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"77","Georgia 2025-01-31_13-30",7,3,3,1,1,1,8,0,0,0,0,0,"Roan Dunkerley","Gavin Abrahamson","Roan Dunkerley"
+"78","Georgia 2025-01-31_13-30",8,4,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"79","Georgia 2025-01-31_13-30",9,4,4,1,1,2,43,1,1,0,1,0,"Shiff Burt","Luca Harwood","Roan Dunkerley"
+"80","Georgia 2025-01-31_13-30",10,5,4,0,0,1,1,1,1,0,1,0,NA,NA,NA
+"81","Georgia 2025-01-31_13-30",11,5,5,1,0,2,7,2,2,1,0,1,NA,NA,NA
+"82","Georgia 2025-01-31_13-30",12,5,6,1,1,1,7,0,0,0,0,0,"Luca Harwood","Caelan McSweeney","Ethan Lieman"
+"83","Georgia 2025-01-31_13-30",13,6,6,0,0,1,6,1,1,0,0,1,NA,NA,NA
+"84","Georgia 2025-01-31_13-30",14,6,7,0,1,2,17,1,1,0,1,1,"Caelan McSweeney","Shiff Burt","Nima Lhamo"
+"85","Georgia 2025-01-31_13-30",15,7,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"86","Georgia 2025-01-31_13-30",16,7,8,1,1,2,6,1,1,0,1,0,"Shiff Burt","Caelan McSweeney","Gavin Abrahamson"
+"87","Georgia 2025-01-31_13-30",17,8,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"88","Georgia 2025-01-31_13-30",18,8,9,1,1,1,7,0,0,0,0,0,"Ethan Lieman","Caelan McSweeney","Ethan Lieman"
+"89","Georgia 2025-01-31_13-30",19,9,9,0,0,2,3,2,2,0,2,0,NA,NA,NA
+"90","Georgia 2025-01-31_13-30",20,9,10,1,1,2,10,1,1,0,0,1,"Carter Hawkins","Luca Harwood","Caelan McSweeney"
+"91","Georgia 2025-01-31_13-30",21,10,10,0,0,1,1,1,1,0,0,1,NA,NA,NA
+"92","Georgia 2025-01-31_13-30",22,10,11,1,0,0,0,0,0,0,0,0,NA,NA,NA
+"93","Georgia Tech 2025-02-28_13-51",1,0,0,1,1,1,14,0,0,0,0,0,"Carter Hawkins","Caelan McSweeney","Griffin Gee"
+"94","Georgia Tech 2025-02-28_13-51",2,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"95","Georgia Tech 2025-02-28_13-51",3,1,1,1,1,2,9,1,1,0,1,0,"Luca Harwood","Carter Hawkins","Shiff Burt"
+"96","Georgia Tech 2025-02-28_13-51",4,2,1,0,0,3,24,3,2,1,0,3,NA,NA,NA
+"97","Georgia Tech 2025-02-28_13-51",5,2,2,1,1,3,10,2,2,0,0,2,"Caelan McSweeney","Luca Harwood","Ethan Lieman"
+"98","Georgia Tech 2025-02-28_13-51",6,3,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"99","Georgia Tech 2025-02-28_13-51",7,3,3,1,1,2,16,1,0,1,1,0,"Luca Harwood","Caelan McSweeney","Ethan Lieman"
+"100","Georgia Tech 2025-02-28_13-51",8,4,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"101","Georgia Tech 2025-02-28_13-51",9,4,4,1,1,1,12,0,0,0,0,0,"Carter Hawkins","Shiff Burt","Griffin Gee"
+"102","Georgia Tech 2025-02-28_13-51",10,5,4,0,0,1,6,1,0,1,0,1,NA,NA,NA
+"103","Georgia Tech 2025-02-28_13-51",11,5,5,1,0,6,27,6,5,1,2,3,NA,NA,NA
+"104","Georgia Tech 2025-02-28_13-51",12,5,6,1,1,1,11,0,0,0,0,0,"Caelan McSweeney","Carter Hawkins","Ethan Lieman"
+"105","Georgia Tech 2025-02-28_13-51",13,6,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"106","Georgia Tech 2025-02-28_13-51",14,6,7,0,1,2,15,1,0,1,0,2,"Artie Aucoin","Calan Kirkpatrick","Toby Paperno"
+"107","Georgia Tech 2025-02-28_13-51",15,7,7,0,1,4,34,3,1,2,1,3,"Chaz Norris","Mason Stone","Calan Kirkpatrick"
+"108","Georgia Tech 2025-02-28_13-51",16,8,7,0,0,1,1,1,1,0,1,0,NA,NA,NA
+"109","Georgia Tech 2025-02-28_13-51",17,8,8,1,1,1,5,0,0,0,0,0,"Mason Stone","Griffin Gee","Shiff Burt"
+"110","Georgia Tech 2025-02-28_13-51",18,9,8,0,1,1,4,0,0,0,0,1,"Artie Aucoin","Nadav Berkman","Artie Aucoin"
+"111","Georgia Tech 2025-02-28_13-51",19,10,8,0,0,4,11,4,3,1,3,1,NA,NA,NA
+"112","Georgia Tech 2025-02-28_13-51",20,10,9,1,1,1,13,0,0,0,0,0,"Caelan McSweeney","Carter Hawkins","Caelan McSweeney"
+"113","Georgia Tech 2025-02-28_13-51",21,11,9,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"114","Michigan 2025-02-01_13-30",1,0,0,0,0,2,12,2,2,0,0,2,NA,NA,NA
+"115","Michigan 2025-02-01_13-30",2,0,1,1,1,1,7,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Griffin Gee"
+"116","Michigan 2025-02-01_13-30",3,1,1,0,1,1,3,0,0,0,1,0,"Mason Stone","Charlie Leightheiser","Calan Kirkpatrick"
+"117","Michigan 2025-02-01_13-30",4,2,1,0,1,1,5,0,0,0,1,0,"Nima Lhamo","Nadav Berkman","Gavin Abrahamson"
+"118","Michigan 2025-02-01_13-30",5,3,1,0,0,1,6,1,0,1,0,1,NA,NA,NA
+"119","Michigan 2025-02-01_13-30",6,3,2,1,1,1,10,0,0,0,0,0,"Luca Harwood","Caelan McSweeney","Gavin Abrahamson"
+"120","Michigan 2025-02-01_13-30",7,4,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"121","Michigan 2025-02-01_13-30",8,4,3,1,1,1,11,0,0,0,0,0,"Griffin Gee","Carter Hawkins","Ethan Lieman"
+"122","Michigan 2025-02-01_13-30",9,5,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"123","Michigan 2025-02-01_13-30",10,5,4,1,1,1,3,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Roan Dunkerley"
+"124","Michigan 2025-02-01_13-30",11,6,4,0,1,1,10,0,0,0,1,0,NA,"Leo Narbonne","Artie Aucoin"
+"125","Michigan 2025-02-01_13-30",12,7,4,1,1,1,5,0,0,0,0,0,"Caelan McSweeney","Ethan Lieman","Luca Harwood"
+"126","Michigan 2025-02-01_13-30",13,8,4,0,1,1,5,0,0,0,1,0,"Calan Kirkpatrick","Taylor Hanson",NA
+"127","Michigan 2025-02-01_13-30",14,9,4,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"128","Michigan 2025-02-01_13-30",15,9,5,1,1,1,3,0,0,0,0,0,"Mason Stone","Ethan Lieman","Mason Stone"
+"129","Michigan 2025-02-01_13-30",16,10,5,0,0,2,9,2,1,1,2,0,NA,NA,NA
+"130","Michigan 2025-02-01_13-30",17,10,6,1,1,1,2,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Gavin Abrahamson"
+"131","Michigan 2025-02-01_13-30",18,11,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"132","Michigan 2025-02-01_13-30",19,11,7,1,1,1,6,0,0,0,0,0,"Gavin Abrahamson","Griffin Gee","Gavin Abrahamson"
+"133","Michigan 2025-02-01_13-30",20,12,7,0,1,2,4,1,1,0,1,1,"Artie Aucoin","Ian Buchanon","Sam Green"
+"134","Michigan 2025-02-01_13-30",21,13,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"135","Pitt 2025-03-01_13-30",1,0,0,1,0,1,4,1,1,0,0,0,NA,NA,NA
+"136","Pitt 2025-03-01_13-30",2,0,1,1,1,1,11,0,0,0,0,0,"Luca Harwood","Caelan McSweeney","Gavin Abrahamson"
+"137","Pitt 2025-03-01_13-30",3,1,1,0,1,1,6,0,0,0,1,0,"Mason Stone","Calan Kirkpatrick","Mason Stone"
+"138","Pitt 2025-03-01_13-30",4,2,1,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"139","Pitt 2025-03-01_13-30",5,2,2,1,1,1,13,0,0,0,0,0,"Gavin Abrahamson","Roan Dunkerley","Luca Harwood"
+"140","Pitt 2025-03-01_13-30",6,3,2,0,1,2,21,1,1,0,1,1,"Shiff Burt","Artie Aucoin","Nima Lhamo"
+"141","Pitt 2025-03-01_13-30",7,4,2,0,1,1,1,0,0,0,0,1,NA,"Mason Stone","Charlie Leightheiser"
+"142","Pitt 2025-03-01_13-30",8,5,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"143","Pitt 2025-03-01_13-30",9,5,3,1,0,1,3,1,1,0,0,0,NA,NA,NA
+"144","Pitt 2025-03-01_13-30",10,5,4,1,1,1,9,0,0,0,0,0,"Carter Hawkins","Caelan McSweeney","Gavin Abrahamson"
+"145","Pitt 2025-03-01_13-30",11,6,4,0,1,3,18,2,2,0,2,1,NA,"Mason Stone","Calan Kirkpatrick"
+"146","Pitt 2025-03-01_13-30",12,7,4,0,1,1,6,0,0,0,0,1,"Carter Hawkins","Caelan McSweeney","Carter Hawkins"
+"147","Pitt 2025-03-01_13-30",13,8,4,0,0,1,4,1,1,0,0,1,NA,NA,NA
+"148","Pitt 2025-03-01_13-30",14,8,5,1,1,2,6,1,1,0,0,1,"Gavin Abrahamson","Mason Stone","Gavin Abrahamson"
+"149","Pitt 2025-03-01_13-30",15,9,5,0,0,2,4,2,1,1,0,2,NA,NA,NA
+"150","Pitt 2025-03-01_13-30",16,9,6,1,1,2,10,1,1,0,0,1,NA,"Mason Stone","Caelan McSweeney"
+"151","Pitt 2025-03-01_13-30",17,10,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"152","Pitt 2025-03-01_13-30",18,10,7,1,1,1,2,0,0,0,0,0,"Carter Hawkins","Caelan McSweeney","Gavin Abrahamson"
+"153","Pitt 2025-03-01_13-30",19,11,7,0,1,3,12,2,2,0,1,2,"Calan Kirkpatrick","Leo Narbonne","Wes K-H"
+"154","Pitt 2025-03-01_13-30",20,12,7,0,1,1,4,0,0,0,0,1,"Charlie Leightheiser","Tomo Liou","Sam Green"
+"155","Pitt 2025-03-01_13-30",21,13,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"156","Pitt 2025-03-01_13-30",22,13,8,1,1,1,8,0,0,0,0,0,"Shiff Burt","Roan Dunkerley","Gavin Abrahamson"
+"157","Pitt 2025-03-01_13-30",23,14,8,0,1,1,6,0,0,0,0,1,"Chaz Norris","Charlie Leightheiser","Wes K-H"
+"158","Pitt 2025-03-01_13-30",24,15,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"159","Texas 2025-02-28_11-30",1,0,0,1,1,3,15,2,1,1,0,2,"Griffin Gee","Caelan McSweeney","Ethan Lieman"
+"160","Texas 2025-02-28_11-30",2,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"161","Texas 2025-02-28_11-30",3,1,1,1,0,1,3,1,1,0,0,0,NA,NA,NA
+"162","Texas 2025-02-28_11-30",4,1,2,1,1,3,11,2,2,0,0,2,"Gavin Abrahamson","Caelan McSweeney","Gavin Abrahamson"
+"163","Texas 2025-02-28_11-30",5,2,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"164","Texas 2025-02-28_11-30",6,2,3,1,0,1,1,1,1,0,0,0,NA,NA,NA
+"165","Texas 2025-02-28_11-30",7,2,4,1,1,3,12,2,2,0,2,0,"Caelan McSweeney","Mason Stone","Roan Dunkerley"
+"166","Texas 2025-02-28_11-30",8,3,4,0,1,1,2,0,0,0,0,1,"Mason Stone","Griffin Gee","Nadav Berkman"
+"167","Texas 2025-02-28_11-30",9,4,4,0,0,1,10,1,1,0,0,1,NA,NA,NA
+"168","Texas 2025-02-28_11-30",10,4,5,1,0,1,5,1,1,0,0,0,NA,NA,NA
+"169","Texas 2025-02-28_11-30",11,4,6,1,0,2,10,2,2,0,1,0,NA,NA,NA
+"170","Texas 2025-02-28_11-30",12,4,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"171","Texas 2025-02-28_11-30",13,4,8,1,1,2,18,1,1,0,1,0,"Ian Buchanon","Carter Hawkins","Shiff Burt"
+"172","Texas 2025-02-28_11-30",14,5,8,0,0,3,6,3,3,0,3,0,NA,NA,NA
+"173","Texas 2025-02-28_11-30",15,5,9,1,1,1,8,0,0,0,0,0,"Caelan McSweeney","Griffin Gee","Carter Hawkins"
+"174","Texas 2025-02-28_11-30",16,6,9,0,1,2,8,1,1,0,0,2,"Luca Harwood","Carter Hawkins","Sam Green"
+"175","Texas 2025-02-28_11-30",17,7,9,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"176","Texas 2025-02-28_11-30",18,7,10,1,1,2,6,1,0,1,1,0,NA,"Caelan McSweeney","Gavin Abrahamson"
+"177","Texas 2025-02-28_11-30",19,8,10,0,1,1,7,0,0,0,0,1,"Artie Aucoin","Calan Kirkpatrick","Artie Aucoin"
+"178","Texas 2025-02-28_11-30",20,9,10,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"179","Texas 2025-02-28_11-30",21,9,11,1,1,1,3,0,0,0,0,0,"Luca Harwood","Gavin Abrahamson","Griffin Gee"
+"180","Texas 2025-02-28_11-30",22,10,11,0,1,1,10,0,0,0,1,0,"Toby Paperno","Artie Aucoin","Shiff Burt"
+"181","Texas 2025-02-28_11-30",23,11,11,0,1,1,1,0,0,0,0,1,NA,"Caelan McSweeney","Mason Stone"
+"182","Texas 2025-02-28_11-30",24,12,11,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"183","UNC 2025-03-02_11-59",1,0,0,1,1,1,12,0,0,0,0,0,"Luca Harwood","Ethan Lieman","Roan Dunkerley"
+"184","UNC 2025-03-02_11-59",2,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"185","UNC 2025-03-02_11-59",3,1,1,1,1,1,11,0,0,0,0,0,"Gavin Abrahamson","Caelan McSweeney","Luca Harwood"
+"186","UNC 2025-03-02_11-59",4,2,1,0,1,2,21,1,1,0,0,2,"Leo Narbonne","Artie Aucoin","Gavin Abrahamson"
+"187","UNC 2025-03-02_11-59",5,3,1,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"188","UNC 2025-03-02_11-59",6,3,2,1,1,1,5,0,0,0,0,0,"Roan Dunkerley","Gavin Abrahamson","Griffin Gee"
+"189","UNC 2025-03-02_11-59",7,4,2,0,0,1,1,1,1,0,0,1,NA,NA,NA
+"190","UNC 2025-03-02_11-59",8,4,3,1,1,2,20,1,1,0,0,1,"Griffin Gee","Carter Hawkins","Shiff Burt"
+"191","UNC 2025-03-02_11-59",9,5,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"192","UNC 2025-03-02_11-59",10,5,4,1,1,1,9,0,0,0,0,0,"Roan Dunkerley","Carter Hawkins","Luca Harwood"
+"193","UNC 2025-03-02_11-59",11,6,4,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"194","UNC 2025-03-02_11-59",12,6,5,1,1,1,7,0,0,0,0,0,"Caelan McSweeney","Carter Hawkins","Griffin Gee"
+"195","UNC 2025-03-02_11-59",13,7,5,0,0,1,3,1,1,0,1,0,NA,NA,NA
+"196","UNC 2025-03-02_11-59",14,7,6,1,1,1,10,0,0,0,0,0,"Luca Harwood","Carter Hawkins","Shiff Burt"
+"197","UNC 2025-03-02_11-59",15,8,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"198","UNC 2025-03-02_11-59",16,8,7,1,1,1,5,0,0,0,0,0,"Shiff Burt","Mason Stone","Carter Hawkins"
+"199","UNC 2025-03-02_11-59",17,9,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"200","UNC 2025-03-02_11-59",18,9,8,1,0,1,3,1,1,0,0,0,NA,NA,NA
+"201","UNC 2025-03-02_11-59",19,9,9,1,0,1,3,1,1,0,0,0,NA,NA,NA
+"202","UNC 2025-03-02_11-59",20,9,10,1,1,3,13,2,2,0,0,2,"Mason Stone","Calan Kirkpatrick","Mason Stone"
+"203","UNC 2025-03-02_11-59",21,10,10,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"204","UNC 2025-03-02_11-59",22,10,11,1,1,1,17,0,0,0,0,0,"Griffin Gee","Caelan McSweeney","Mason Stone"
+"205","UNC 2025-03-02_11-59",23,11,11,0,0,1,7,1,0,1,0,1,NA,NA,NA
+"206","UNC 2025-03-02_11-59",24,11,12,1,1,4,16,3,3,0,1,2,"Carter Hawkins","Artie Aucoin","Carter Hawkins"
+"207","UNC 2025-03-02_11-59",25,12,12,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"208","UNC 2025-03-02_11-59",26,12,13,1,1,1,4,0,0,0,0,0,"Caelan McSweeney","Gavin Abrahamson","Roan Dunkerley"
+"209","UNC 2025-03-02_11-59",27,13,13,0,1,1,5,0,0,0,1,0,"Calan Kirkpatrick","Sam Green","Tomo Liou"
+"210","UNC 2025-03-02_11-59",28,14,13,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"211","UNC 2025-03-02_11-59",29,14,14,1,0,3,25,3,2,1,2,0,NA,NA,NA
+"212","UNC 2025-03-02_11-59",30,14,15,1,0,0,0,0,0,0,0,0,NA,NA,NA
+"213","Utah State 2025-01-31_11-40",1,0,0,1,0,1,2,1,0,1,0,0,NA,NA,NA
+"214","Utah State 2025-01-31_11-40",2,0,1,1,1,1,1,0,0,0,0,0,NA,"Caelan McSweeney","Ian Buchanon"
+"215","Utah State 2025-01-31_11-40",3,1,1,0,0,3,11,3,1,2,3,0,NA,NA,NA
+"216","Utah State 2025-01-31_11-40",4,1,2,1,1,1,1,0,0,0,0,0,NA,"Mason Stone","Shiff Burt"
+"217","Utah State 2025-01-31_11-40",5,2,2,0,0,3,12,3,3,0,0,3,NA,NA,NA
+"218","Utah State 2025-01-31_11-40",6,2,3,1,1,1,7,0,0,0,0,0,"Griffin Gee","Caelan McSweeney","Roan Dunkerley"
+"219","Utah State 2025-01-31_11-40",7,3,3,0,0,2,17,2,2,0,0,2,NA,NA,NA
+"220","Utah State 2025-01-31_11-40",8,3,4,1,1,3,11,2,1,1,2,0,"Luca Harwood","Calan Kirkpatrick","Caelan McSweeney"
+"221","Utah State 2025-01-31_11-40",9,4,4,0,1,2,12,1,0,1,1,1,"Carter Hawkins","Ethan Lieman","Shiff Burt"
+"222","Utah State 2025-01-31_11-40",10,5,4,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"223","Utah State 2025-01-31_11-40",11,5,5,1,1,2,2,1,1,1,1,0,NA,"Carter Hawkins","Griffin Gee"
+"224","Utah State 2025-01-31_11-40",12,6,5,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"225","Utah State 2025-01-31_11-40",13,6,6,1,1,2,24,1,1,0,0,1,"Carter Hawkins","Luca Harwood","Roan Dunkerley"
+"226","Utah State 2025-01-31_11-40",14,7,6,0,1,2,9,1,1,0,0,2,NA,"Artie Aucoin","Calan Kirkpatrick"
+"227","Utah State 2025-01-31_11-40",15,8,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"228","Utah State 2025-01-31_11-40",16,8,7,1,1,1,1,0,0,0,0,0,NA,"Caelan McSweeney","Gavin Abrahamson"
+"229","Utah State 2025-01-31_11-40",17,9,7,0,0,1,6,1,1,0,0,1,NA,NA,NA
+"230","Utah State 2025-01-31_11-40",18,9,8,1,1,1,10,0,0,0,0,0,"Ethan Lieman","Caelan McSweeney","Griffin Gee"
+"231","Utah State 2025-01-31_11-40",19,10,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"232","UVM 2025-02-01_17-50",1,0,0,1,1,1,3,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Ethan Lieman"
+"233","UVM 2025-02-01_17-50",2,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"234","UVM 2025-02-01_17-50",3,1,1,1,0,2,19,2,2,0,1,0,NA,NA,NA
+"235","UVM 2025-02-01_17-50",4,1,2,1,0,1,5,1,1,0,0,0,NA,NA,NA
+"236","UVM 2025-02-01_17-50",5,1,3,1,1,1,7,0,0,0,0,0,"Carter Hawkins","Caelan McSweeney","Ethan Lieman"
+"237","UVM 2025-02-01_17-50",6,2,3,1,1,1,2,0,0,0,0,1,NA,"Luca Harwood",NA
+"238","UVM 2025-02-01_17-50",7,3,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"239","UVM 2025-02-01_17-50",8,3,4,1,1,1,1,0,0,0,0,0,NA,"Artie Aucoin","Ian Buchanon"
+"240","UVM 2025-02-01_17-50",9,4,4,0,1,2,16,1,1,0,2,0,"Gavin Abrahamson","Calan Kirkpatrick","Mason Stone"
+"241","UVM 2025-02-01_17-50",10,5,4,0,1,1,7,0,0,0,0,1,"Artie Aucoin","Toby Paperno","Sam Green"
+"242","UVM 2025-02-01_17-50",11,6,4,0,1,1,9,0,0,0,1,0,"Jonathan Coombs","Leo Narbonne","Ian Buchanon"
+"243","UVM 2025-02-01_17-50",12,7,4,0,1,2,12,1,1,0,0,2,"Artie Aucoin","Mason Stone","Ian Buchanon"
+"244","UVM 2025-02-01_17-50",13,8,4,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"245","UVM 2025-02-01_17-50",14,8,5,1,1,1,4,0,0,0,0,0,"Mason Stone","Caelan McSweeney","Ethan Lieman"
+"246","UVM 2025-02-01_17-50",15,9,5,0,1,1,14,0,0,0,0,1,"Caelan McSweeney","Luca Harwood","Artie Aucoin"
+"247","UVM 2025-02-01_17-50",16,10,5,0,0,2,17,2,2,0,1,1,NA,NA,NA
+"248","UVM 2025-02-01_17-50",17,10,6,1,1,2,16,1,1,0,1,0,"Gavin Abrahamson","Caelan McSweeney","Ethan Lieman"
+"249","UVM 2025-02-01_17-50",18,11,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"250","UVM 2025-02-01_17-50",19,11,7,1,1,1,9,0,0,0,0,0,"Caelan McSweeney","Calan Kirkpatrick","Shiff Burt"
+"251","UVM 2025-02-01_17-50",20,12,7,0,0,1,2,1,0,1,0,1,NA,NA,NA
+"252","UVM 2025-02-01_17-50",21,12,8,1,1,3,20,2,2,0,1,1,"Mason Stone","Artie Aucoin","Mason Stone"
+"253","UVM 2025-02-01_17-50",22,13,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"254","Vermont 2025-03-02_08-00",1,0,0,1,1,2,10,1,1,0,1,0,"Griffin Gee","Caelan McSweeney","Ethan Lieman"
+"255","Vermont 2025-03-02_08-00",2,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"256","Vermont 2025-03-02_08-00",3,1,1,1,1,2,9,1,1,0,0,1,NA,"Caelan McSweeney","Shiff Burt"
+"257","Vermont 2025-03-02_08-00",4,2,1,0,1,2,7,0,0,0,1,1,"Ethan Lieman","Artie Aucoin","Jonathan Coombs"
+"258","Vermont 2025-03-02_08-00",5,3,1,0,0,2,10,2,2,0,1,1,NA,NA,NA
+"259","Vermont 2025-03-02_08-00",6,3,2,1,1,3,9,2,2,0,1,1,NA,"Caelan McSweeney","Ethan Lieman"
+"260","Vermont 2025-03-02_08-00",7,4,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"261","Vermont 2025-03-02_08-00",8,4,3,1,1,2,21,1,1,0,0,1,"Ethan Lieman","Griffin Gee","Ethan Lieman"
+"262","Vermont 2025-03-02_08-00",9,5,3,0,0,1,8,1,0,1,1,0,NA,NA,NA
+"263","Vermont 2025-03-02_08-00",10,5,4,1,0,1,2,1,0,1,0,0,NA,NA,NA
+"264","Vermont 2025-03-02_08-00",11,5,5,1,1,1,8,0,0,0,0,0,"Carter Hawkins","Caelan McSweeney","Ethan Lieman"
+"265","Vermont 2025-03-02_08-00",12,6,5,0,1,1,2,0,0,0,1,0,"Ethan Lieman","Calan Kirkpatrick","Ethan Lieman"
+"266","Vermont 2025-03-02_08-00",13,7,5,0,1,1,4,0,0,0,1,0,"Chaz Norris","Calan Kirkpatrick","Ethan Lieman"
+"267","Vermont 2025-03-02_08-00",14,8,5,0,1,2,18,1,1,0,1,1,"Leo Narbonne","Toby Paperno","Artie Aucoin"
+"268","Vermont 2025-03-02_08-00",15,9,5,0,1,1,5,0,0,0,0,1,"Calan Kirkpatrick","Leo Narbonne","Jonathan Coombs"
+"269","Vermont 2025-03-02_08-00",16,10,5,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"270","Vermont 2025-03-02_08-00",17,10,6,1,0,1,8,1,1,0,0,0,NA,NA,NA
+"271","Vermont 2025-03-02_08-00",18,10,7,1,1,1,4,0,0,0,0,0,"Mason Stone","Luca Harwood","Roan Dunkerley"
+"272","Vermont 2025-03-02_08-00",19,11,7,0,1,3,7,2,1,1,1,2,"Toby Paperno","Shiff Burt","Artie Aucoin"
+"273","Vermont 2025-03-02_08-00",20,12,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"274","Vermont 2025-03-02_08-00",21,12,8,1,1,1,10,0,0,0,0,0,"Ethan Lieman","Caelan McSweeney","Carter Hawkins"
+"275","Vermont 2025-03-02_08-00",22,13,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"276","Vermont 2025-03-02_08-00",23,13,9,1,1,1,13,0,0,0,0,0,"Ethan Lieman","Carter Hawkins","Roan Dunkerley"
+"277","Vermont 2025-03-02_08-00",24,14,9,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"278","Vermont 2025-03-02_08-00",25,14,10,1,1,1,7,0,0,0,0,0,"Griffin Gee","Carter Hawkins","Shiff Burt"
+"279","Vermont 2025-03-02_08-00",26,15,10,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"280","Virginia Tech 2025-02-01_11-40",1,0,0,1,1,1,3,0,0,0,0,0,"Ethan Lieman","Luca Harwood","Roan Dunkerley"
+"281","Virginia Tech 2025-02-01_11-40",2,1,0,0,0,1,5,1,1,0,1,0,NA,NA,NA
+"282","Virginia Tech 2025-02-01_11-40",3,1,1,1,1,1,6,0,0,0,0,0,"Roan Dunkerley","Luca Harwood","Calan Kirkpatrick"
+"283","Virginia Tech 2025-02-01_11-40",4,2,1,0,1,2,9,1,1,0,2,0,"Calan Kirkpatrick","Sam Green","Artie Aucoin"
+"284","Virginia Tech 2025-02-01_11-40",5,3,1,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"285","Virginia Tech 2025-02-01_11-40",6,3,2,1,1,1,13,0,0,0,0,0,"Artie Aucoin","Carter Hawkins","Mason Stone"
+"286","Virginia Tech 2025-02-01_11-40",7,4,2,0,1,1,5,0,0,0,1,0,"Mason Stone","Taylor Hanson","Calan Kirkpatrick"
+"287","Virginia Tech 2025-02-01_11-40",8,5,2,0,1,1,6,0,0,0,1,0,"Sam Green","Charlie Leightheiser","Gavin Abrahamson"
+"288","Virginia Tech 2025-02-01_11-40",9,6,2,0,1,1,3,0,0,0,1,0,"Leo Narbonne","Tomo Liou","Sam Green"
+"289","Virginia Tech 2025-02-01_11-40",10,7,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"290","Virginia Tech 2025-02-01_11-40",11,7,3,1,1,1,8,0,0,0,0,0,"Roan Dunkerley","Griffin Gee","Luca Harwood"
+"291","Virginia Tech 2025-02-01_11-40",12,8,3,0,1,1,13,0,0,0,1,0,"Ethan Lieman","Artie Aucoin","Shiff Burt"
+"292","Virginia Tech 2025-02-01_11-40",13,9,3,0,1,1,1,0,0,0,0,1,NA,"Caelan McSweeney","Luca Harwood"
+"293","Virginia Tech 2025-02-01_11-40",14,10,3,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"294","Virginia Tech 2025-02-01_11-40",15,10,4,1,1,2,7,1,1,0,1,0,"Luca Harwood","Shiff Burt","Ian Buchanon"
+"295","Virginia Tech 2025-02-01_11-40",16,11,4,0,1,3,11,2,2,1,3,0,"Charlie Leightheiser","Ian Buchanon","Wes K-H"
+"296","Virginia Tech 2025-02-01_11-40",17,12,4,0,1,1,4,0,0,0,0,1,"Sam Green","Griffin Gee","Gavin Abrahamson"
+"297","Virginia Tech 2025-02-01_11-40",18,13,4,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"298","Wash U 2025-02-02_08-00",1,0,0,0,1,1,1,0,0,0,0,1,NA,"Artie Aucoin","Calan Kirkpatrick"
+"299","Wash U 2025-02-02_08-00",2,1,0,0,0,1,13,1,1,0,0,1,NA,NA,NA
+"300","Wash U 2025-02-02_08-00",3,1,1,1,1,1,2,0,0,0,0,0,"Carter Hawkins","Caelan McSweeney","Ethan Lieman"
+"301","Wash U 2025-02-02_08-00",4,2,1,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"302","Wash U 2025-02-02_08-00",5,2,2,1,1,1,12,0,0,0,0,0,"Luca Harwood","Carter Hawkins","Caelan McSweeney"
+"303","Wash U 2025-02-02_08-00",6,3,2,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"304","Wash U 2025-02-02_08-00",7,3,3,1,1,1,13,0,0,0,0,0,"Nadav Berkman","Ethan Lieman","Griffin Gee"
+"305","Wash U 2025-02-02_08-00",8,4,3,0,1,1,16,0,0,0,1,0,"Toby Paperno","Artie Aucoin","Shiff Burt"
+"306","Wash U 2025-02-02_08-00",9,5,3,0,0,2,11,2,2,0,2,0,NA,NA,NA
+"307","Wash U 2025-02-02_08-00",10,5,4,1,0,1,4,1,1,0,0,0,NA,NA,NA
+"308","Wash U 2025-02-02_08-00",11,5,5,1,1,1,3,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Gavin Abrahamson"
+"309","Wash U 2025-02-02_08-00",12,6,5,0,0,1,9,1,1,0,0,1,NA,NA,NA
+"310","Wash U 2025-02-02_08-00",13,6,6,1,1,1,2,0,0,0,0,0,"Caelan McSweeney","Roan Dunkerley","Luca Harwood"
+"311","Wash U 2025-02-02_08-00",14,7,6,1,1,1,14,0,0,0,0,0,"Griffin Gee","Carter Hawkins","Artie Aucoin"
+"312","Wash U 2025-02-02_08-00",15,8,6,0,1,2,29,1,0,1,1,1,"Nadav Berkman","Calan Kirkpatrick","Nadav Berkman"
+"313","Wash U 2025-02-02_08-00",16,9,6,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"314","Wash U 2025-02-02_08-00",17,9,7,1,1,1,10,0,0,0,0,0,"Ethan Lieman","Carter Hawkins","Caelan McSweeney"
+"315","Wash U 2025-02-02_08-00",18,10,7,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"316","Wash U 2025-02-02_08-00",19,10,8,1,1,3,34,2,2,0,1,1,"Caelan McSweeney","Calan Kirkpatrick","Luca Harwood"
+"317","Wash U 2025-02-02_08-00",20,11,8,0,0,0,0,0,0,0,0,0,NA,NA,NA
+"318","Wash U 2025-02-02_08-00",21,11,9,1,1,1,9,0,0,0,0,0,"Caelan McSweeney","Luca Harwood","Caelan McSweeney"
+"319","Wash U 2025-02-02_08-00",22,12,9,0,1,1,2,0,0,0,1,0,"Caelan McSweeney","Toby Paperno","Carter Hawkins"
+"320","Wash U 2025-02-02_08-00",23,13,9,0,0,0,0,0,0,0,0,0,NA,NA,NA
