@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+finished_graphs/.DS_Store
+raw_data/.DS_Store
+.DS_Store
